@@ -1,0 +1,192 @@
+year,institution,state,classification,minority
+2017,Adrian College,MI,PUI,none
+2020,Alcorn State University,MS,PUI,HBCU
+2017,Alma College,MI,PUI,none
+2017,Appalachian State University,NC,PUI,none
+2019,Aquinas College,MI,PUI,none
+2021,Arizona State University-Tempe,AZ,R1,HSI_CAMP
+2013,Ashland University,OH,PUI,none
+2018,Bemidji State University,MN,PUI,none
+2011,Bennett College,NC,PUI,HBCU
+2011,Brown University,RI,R1,none
+2017,Brown University,RI,R1,none
+2017,Bryan College,TN,PUI,none
+2015,California State Polytechnic University - Pomona,CA,PUI,HSI
+2019,California State University - Dominguez-Hills,CA,PUI,HSI
+2019,California State University - Fresno,CA,PUI,HSI_CAMP
+2021,California State University - Long Beach,CA,PUI,HSI
+2020,California State University - Long Beach,CA,PUI,HSI
+2015,California State University - Monterey Bay,CA,PUI,HSI
+2019,California State University - Monterey Bay,CA,PUI,HSI
+2015,California State University - San Marcos,CA,PUI,HSI
+2020,California State University - San Marcos,CA,PUI,HSI
+2019,California State University Fullerton,CA,PUI,HSI
+2012,California State University Northridge,CA,PUI,HSI
+2011,Calvin College,MI,PUI,none
+2011,Calvin College,MI,PUI,none
+2017,Claflin University,SC,PUI,HBCU
+2013,Clemson University,SC,R1,none
+2018,College of William and Mary,VA,PUI,none
+2016,Cornell University,NY,R1,none
+2018,Cornell University,NY,R1,none
+2021,Davidson College,NC,PUI,none
+2020,Davidson College,NC,PUI,none
+2017,Duke University,NC,R1,none
+2020,Earlham College,IN,PUI,none
+2016,Eastern Michigan University,MI,R2,none
+2021,Florida Atlantic University,FL,R2,HSI
+2016,Florida Gulf Coast University,FL,PUI,none
+2016,Florida International University,FL,R1,HSI
+2012,Fort Valley State University,GA,PUI,HBCU
+2015,Fort Valley State University,GA,PUI,HBCU
+2019,Fort Valley State University,GA,PUI,HBCU
+2021,Fort Valley State University,GA,PUI,HBCU
+2020,Fort Valley State University,GA,PUI,HBCU
+2020,Fort Valley State University,GA,PUI,HBCU
+2015,Georgia Institute of Technology,GA,R1,none
+2014,Gordon College,MA,PUI,none
+2014,Grand Valley State University,MI,PUI,none
+2019,Grand Valley State University,MI,PUI,none
+2011,Grinnell College,IA,PUI,none
+2014,Grinnell College,IA,PUI,none
+2017,Grinnell College,IA,PUI,none
+2020,Grinnell College,MN,PUI,none
+2020,Haverford College,PA,PUI,none
+2016,Henry Ford College,MI,PUI,none
+2020,Henry Ford College,MI,PUI,none
+2015,Hope College,MI,PUI,none
+2012,Humboldt State University,CA,PUI,HSI
+2013,Humboldt State University,CA,PUI,HSI
+2015,Humboldt State University,CA,PUI,HSI
+2016,Humboldt State University,CA,PUI,HSI
+2017,Humboldt State University,CA,PUI,HSI
+2018,Humboldt State University,CA,PUI,HSI
+2019,Illinois State University,IL,R2,none
+2011,Indiana Wesleyan University,IN,PUI,none
+2017,Iowa State University,IA,R1,none
+2018,Iowa State University,IA,R1,none
+2020,Iowa State University,IA,R1,none
+2021,Kansas State University,KS,R1,none
+2012,Kenyon College,OH,PUI,none
+2020,Kenyon College,OH,PUI,none
+2013,Lake Superior State Univeristy,MI,PUI,none
+2012,Lake Superior State University,MI,PUI,none
+2019,Lake Superior State University,MI,PUI,none
+2021,LANGEBIO,Mexico,Python,Python
+2014,Manchester University,IN,PUI,none
+2011,Michigan State University,MI,R1,none
+2012,Michigan State University,MI,R1,none
+2012,Michigan State University,MI,R1,none
+2014,Michigan State University,MI,R1,none
+2014,Michigan State University,MI,R1,none
+2014,Michigan State University,MI,R1,none
+2014,Michigan State University,MI,R1,none
+2015,Michigan State University,MI,R1,none
+2015,Michigan State University,MI,R1,none
+2016,Michigan State University,MI,R1,none
+2016,Michigan State University,MI,R1,none
+2018,Michigan State University,MI,R1,none
+2019,Michigan State University,MI,R1,none
+2015,Michigan Technological University,MI,R2,none
+2015,Monroe County Community College,MI,community,none
+2013,Morgan State University,MD,PUI,HBCU
+2011,Norfolk State University,VA,PUI,HBCU
+2013,Norfolk State University,VA,PUI,HBCU
+2012,Northern Michigan University,MI,PUI,none
+2021,Oakland University,MI,R2,none
+2015,Oberlin College,OH,PUI,none
+2017,Oberlin College,OH,PUI,none
+2019,Ohio State University,OH,R1,none
+2012,Ohio Wesleyan University,OH,PUI,none
+2018,Otterbein University,OH,PUI,none
+2016,Penn State University,PA,R1,none
+2016,Penn State University,PA,R1,none
+2016,Purdue University,IN,R1,none
+2018,Rochester Institute of Technology,NY,R2,none
+2017,Saint Augustine's University,NC,PUI,HBCU
+2018,Saint Augustine's University,NC,PUI,HBCU
+2019,Saint Augustine's University,NC,PUI,HBCU
+2021,Saint Augustine's University,NC,PUI,HBCU
+2020,Saint Augustine's University,NC,PUI,HBCU
+2013,Slippery Rock University,PA,PUI,none
+2016,Smith College,MA,PUI,none
+2011,South Dakota State Univesity,SD,R2,none
+2012,Spelman College,GA,PUI,HBCU
+2016,Spelman College,GA,PUI,HBCU
+2014,Spring Arbor University,MI,PUI,none
+2015,Spring Arbor University,MI,PUI,none
+2018,Spring Arbor University,MI,PUI,none
+2016,St. Edward's University,TX,PUI,HSI
+2013,St. Mary's College of Maryland,MD,PUI,none
+2013,St. Olaf College,MN,PUI,none
+2015,St. Olaf College,MN,PUI,none
+2019,SUNY Binghamton University,NY,R1,none
+2017,SUNY Oneonta,NY,PUI,CAMP
+2018,SUNY Oneonta,NY,PUI,CAMP
+2019,SUNY Oneonta,NY,PUI,CAMP
+2021,SUNY Oneonta,NY,PUI,CAMP
+2020,SUNY Oneonta,NY,PUI,CAMP
+2021,Swarthmore College,PA,PUI,none
+2018,The College of New Jersey,NJ,PUI,none
+2015,The College of Wooster,OH,PUI,none
+2011,Truman State University,MO,PUI,none
+2021,Truman State University,MO,PUI,none
+2021,Truman State University,MO,PUI,none
+2013,Tufts University,NY,R1,none
+2021,UNAM,Mexico,Python,Python
+2021,UNAM ENES Leon,Mexico,Python,Python
+2021,Universidad Ana G. Mendez,PR,PUI,HSI
+2020,University of Arkansas,AK,R1,none
+2012,University of Arkansas,AR,R1,none
+2014,University of Arkansas - Little Rock,AR,R1,none
+2016,University of Florida,FL,R1,none
+2018,University of Florida,FL,R1,none
+2011,University of Georgia,GA,R1,none
+2012,University of Georgia,GA,R1,none
+2016,University of Georgia,GA,R1,none
+2011,University of Maine,MN,R2,none
+2016,University of Maryland  ,MD,R1,none
+2019,University of Maryland Baltimore County,MD,R2,none
+2021,University of Maryland Baltimore County,MD,R2,none
+2011,University of Massachusetts Amherst,MA,R1,none
+2011,University of Minnesota - Morris,MN,PUI,none
+2011,University of Minnesota - Twin Cities,MN,R1,none
+2020,University of Mississippi,MS,R1,none
+2017,University of Missouri,MO,R2,none
+2018,University of Missouri,MO,R2,none
+2019,University of Missouri,MO,R2,none
+2014,University of Portland,OR,PUI,none
+2018,University of Puerto Rico - Arecibo,PR,PUI,HSI
+2013,University of Puerto Rico - Cayey,PR,PUI,HSI
+2014,University of Puerto Rico - Cayey,PR,PUI,HSI
+2012,University of Puerto Rico - Mayaguez,PR,PUI,HSI
+2014,University of Puerto Rico - Mayaguez,PR,PUI,HSI
+2015,University of Puerto Rico - Mayaguez,PR,PUI,HSI
+2016,University of Puerto Rico - Mayaguez,PR,PUI,HSI
+2017,University of Puerto Rico - Mayaguez,PR,PUI,HSI
+2018,University of Puerto Rico - Mayaguez,PR,PUI,HSI
+2021,University of Puerto Rico - Mayaguez,PR,PUI,HSI
+2020,University of Puerto Rico - Mayaguez,PR,PUI,HSI
+2019,University of Puerto Rico - Mayaguez,PR,PUI,HSI
+2017,University of Puerto Rico - Rio Piedras,PR,PUI,HSI
+2014,University of Saint Francis,IN,PUI,none
+2012,University of South Carolina Columbia,SC,R1,none
+2019,University of Texas,TX,R1,none
+2018,University of the Virgin Islands,VI,PUI,HBCU
+2014,University of Wisconsin Eau Claire,WI,PUI,none
+2013,University of Wisconsin River Falls,WI,PUI,none
+2019,Vassar College,NY,PUI,none
+2016,Warren Wilson College,NC,PUI,none
+2015,Washington and Jefferson College,PA,PUI,none
+2017,Washington State University,WA,R1,none
+2011,Wellesley College,MA,PUI,none
+2019,West Liberty University,WV,PUI,none
+2020,West Shore Community College,MI,community,none
+2013,Western Michigan University,MI,R2,none
+2019,Western Michigan University,MI,R2,none
+2017,Westminster College,PA,PUI,none
+2018,Westminster College,PA,PUI,none
+2020,Westminster College,PA,PUI,none
+2014,Wheaton College - Norton,MA,PUI,none
+2013,Wheaton College - Wheaton,IL,PUI,none
+2021,Xavier University,OH,PUI,none
